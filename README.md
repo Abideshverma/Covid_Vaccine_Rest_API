@@ -18,7 +18,7 @@ This project is developed by team of 6 Back-end Developers during project week i
 * Can check the availability of vaccine, vaccine center and and slot accordingly
 * Can register for vaccine and Can book the slot
 * Can check the status
-* Used Postman to check the flow 
+* Used Postman to check the flow.
 * Used swagger to check the working of the project
 
 ## ER-Daigram :

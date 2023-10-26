@@ -1,8 +1,7 @@
 # Covid_Vaccine_Rest_API
 
 ## Rest API for Covid-19 Vaccination App :
-We have developed this REST API for an Covid-19 Application. This API performs all the fundamental CRUD operations of any Covid-19 Application platform with user validation at every step.
-This project is developed by team of 6 Back-end Developers during project week in Masai School.
+Developed this REST API for an Covid-19 Application. This API performs all the fundamental CRUD operations of any Covid-19 Application platform with user validation at every step The system provides a set of core functionalities, designed to facilitate a seamless user experience when interacting with vaccine-related information and services.
    
 ## Tech Stack
 * Java
